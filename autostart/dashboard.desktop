@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Dashboard
+Exec=python3 /home/a/dashboard.py
